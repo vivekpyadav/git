@@ -1,4 +1,4 @@
-### Setting up Git:
+### Setting up Git CLI:
 
 ```bash
 apt get install git -y
